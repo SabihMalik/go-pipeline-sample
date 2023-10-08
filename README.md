@@ -1,4 +1,4 @@
-# Go Sample Pipelines in Harnes
+# Go Sample Pipelines in Harne
 
 Introduction
 ========================
